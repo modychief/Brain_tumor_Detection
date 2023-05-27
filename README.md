@@ -18,10 +18,9 @@ Brain tumors are abnormal growths of cells in the brain that can cause various n
 The dataset used in this project consists of MRI scans of the brain, with labeled images indicating the presence or absence of tumors.
 The dataset can be obtained from https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection 
 Some samples of the dataset are :
-Class "No"
+
 ![image](https://github.com/modychief/Brain_tumor_Detection/assets/112490642/3c39f050-4ff4-4de5-a9fc-d3d32742479c)
 
-Class "Yes"
 ![image](https://github.com/modychief/Brain_tumor_Detection/assets/112490642/221c7a52-1549-47b2-a52a-933afc63a69a)
 
 ## Model Architecture
